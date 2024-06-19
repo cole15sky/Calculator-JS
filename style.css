@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+    
+button{
+    font-size: 17px;
+    color: #00203fff;
+    width: 50px;
+    height: 50px;
+    background: rgb(255, 224, 230) ;
+    box-shadow: 4px 4px 8px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 5px 7px ; 
+    cursor: pointer;
+}
+
+input{
+    font-size:24px;
+    text-align: right;
+    background-color: skyblue;
+    color: black;
+    margin: 10px ;
+    padding:5px;
+    width: 250px;
+    height: 35px;
+    cursor: pointer;
+}
+input::placeholder{
+    color: black;
+}
+
+#container{
+    border: 1px solid #717377;
+    border-radius: 20px;
+
+}
+
+.equalbtn{
+    background-color: #ffc739;
+    color: black;
+}
+.operator{
+    color:blue;
+}
