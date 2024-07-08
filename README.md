@@ -24,3 +24,4 @@ Open index.html in your preferred browser.
 Input Methods: Click on buttons or use your keyboard.
 Operation: Click on +, -, *, / buttons or use corresponding keys.
 Calculate: Press Enter or = key to compute the result.
+<img width="1433" alt=" Ss_Calculator" src="https://github.com/cole15sky/Calculator-JS/assets/133042152/95b46a70-0fde-46fe-a80c-d8d80d970dbb">
